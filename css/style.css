@@ -16,7 +16,17 @@ body{
 
 /* 
 =======================
-general css  end
+navbar css  start
+=======================
+*/
+.nav-options a{
+font-size: 1.1rem;
+}
+
+
+/* 
+=======================
+navbar css  end
 =======================
 */
 

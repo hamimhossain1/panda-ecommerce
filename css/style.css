@@ -8,49 +8,81 @@ body{
     font-family: 'Roboto', sans-serif;
     margin: 0;
     padding: 0;
+    position: relative;
 }
-*{
+*, *:after, *:before{
     box-sizing: border-box;
 }
 
 
 /* 
 =======================
-navbar css  start
+general css  end
 =======================
 */
+
+/* 
+==========================
+navbar section css  start
+==========================
+*/
+.nav-bar{
+    margin-top: 280px;
+}
+.nav-section{
+    height: 180px;
+}
 .nav-options a{
 font-size: 1.1rem;
 }
 
+/* banner */
+.carousel-bg{
+    background-color: #FEEAE9;
+}
+.banner-btn{
+    background-color: #ff3686 !important;
+    border-radius: 10px;
+    text-decoration: none;
+    color: white;
+    font-size: 1.2rem;
+}
+/* 
+=========================
+navbar section css  end
+=========================
+*/
+
 
 /* 
-=======================
-navbar css  end
-=======================
+=============================
+categories section css  start
+=============================
+*/
+.categories-rounded{
+    border-radius: 20px;
+    width: 400px;
+}
+.categories-rounded img{
+    width: 120px !important;
+}
+
+/* 
+============================
+categories section css  end
+============================
 */
 
 
 
-
-
-
-
-
-
 /* 
 =======================
-general css  end
+shoes section css start
 =======================
 */
 /* 
 =======================
-general css  end
-=======================
-*/
-/* 
-=======================
-general css  end
+shoes section css  end
 =======================
 */
 /* 

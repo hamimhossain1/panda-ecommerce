@@ -96,7 +96,7 @@ shoes & backpack section css end
 
 /* 
 =======================
-general css  end
+email section css start
 =======================
 */
 .send-btn{
@@ -104,8 +104,19 @@ general css  end
 }
 
 
+/* 
+=======================
+email section css end
+=======================
+*/
 
 
+
+/* 
+========================
+footer section css start
+========================
+*/
 .footer{
     height: 200px;
 }
@@ -118,6 +129,11 @@ general css  end
     font-size: 1.2rem;
    padding: 1rem;
 }
+/* 
+=======================
+email section css end
+=======================
+*/
 
 
 

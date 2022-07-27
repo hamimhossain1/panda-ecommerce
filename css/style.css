@@ -92,26 +92,6 @@ shoes & backpack section css end
 =================================
 */
 
-
-
-/* 
-=======================
-email section css start
-=======================
-*/
-.send-btn{
-    padding: 27px 30px !important;
-}
-
-
-/* 
-=======================
-email section css end
-=======================
-*/
-
-
-
 /* 
 ========================
 footer section css start
@@ -140,7 +120,11 @@ email section css end
 
 
 
-
+.send-btn{
+    width: 650px;
+    max-width: 80%;
+    
+}
 
 
 
